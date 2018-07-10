@@ -8,11 +8,7 @@ import {
     Nav,
     NavItem,
     NavLink,
-    Container,
-    UncontrolledDropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem } 
+    Container} 
     from 'reactstrap';
 
 export default class AppNavbar extends Component {
